@@ -1,0 +1,1 @@
+<footer>&#169; 2023 - Nhom 2 - Faculty of Infomation Technology</footer>
